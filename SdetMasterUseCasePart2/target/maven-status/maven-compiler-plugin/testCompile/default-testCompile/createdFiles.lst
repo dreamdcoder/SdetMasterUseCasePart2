@@ -1,0 +1,4 @@
+com\sdetlabs\RestfulWSTest.class
+com\sdetlabs\cucumber\runner\CucumberRunner.class
+com\sdetlabs\SoapWSTest.class
+com\sdetlabs\cucumber\stepdefinitions\StepDefinitions.class
