@@ -7,5 +7,11 @@ pipeline {
       }
     }
 
+    stage('run') {
+      steps {
+        bat 'mvn verify'
+      }
+    }
+
   }
 }
